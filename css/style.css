@@ -17,7 +17,7 @@
 #btnIncrease {
     position: absolute;
     top: 40%;
-    left: 45%;
+    left: 30%;
     transform: translate(-50%, -50%);
 
     padding: 25px;
@@ -27,7 +27,7 @@
 #btnDecrease {
     position: absolute;
     top: 40%;
-    left: 55%;
+    left: 70%;
     transform: translate(-50%, -50%);
 
     padding: 25px;
@@ -36,7 +36,7 @@
 
 #element {
     position: absolute;
-    top: 55%;
+    top: 62%;
     left: 50%;
     transform: translate(-50%, -50%);
     
